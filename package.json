@@ -1,0 +1,26 @@
+{
+  "name": "green-straw",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@thunsaker",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-stylus": "^2.0.6"
+  },
+  "description": "Gulp-Jade/Stylus Starter Project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunsaker/green-straw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thunsaker/green-straw/issues"
+  },
+  "homepage": "https://github.com/thunsaker/green-straw#readme"
+}
